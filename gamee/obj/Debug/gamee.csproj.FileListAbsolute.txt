@@ -1,0 +1,11 @@
+C:\Users\YellowKek\source\repos\gamee\gamee\obj\Debug\gamee.csproj.AssemblyReference.cache
+C:\Users\YellowKek\source\repos\gamee\gamee\obj\Debug\gamee.csproj.SuggestedBindingRedirects.cache
+C:\Users\YellowKek\source\repos\gamee\gamee\obj\Debug\gamee.Form1.resources
+C:\Users\YellowKek\source\repos\gamee\gamee\obj\Debug\gamee.Properties.Resources.resources
+C:\Users\YellowKek\source\repos\gamee\gamee\obj\Debug\gamee.csproj.GenerateResource.cache
+C:\Users\YellowKek\source\repos\gamee\gamee\obj\Debug\gamee.csproj.CoreCompileInputs.cache
+C:\Users\YellowKek\source\repos\gamee\gamee\bin\Debug\gamee.exe.config
+C:\Users\YellowKek\source\repos\gamee\gamee\bin\Debug\gamee.exe
+C:\Users\YellowKek\source\repos\gamee\gamee\bin\Debug\gamee.pdb
+C:\Users\YellowKek\source\repos\gamee\gamee\obj\Debug\gamee.exe
+C:\Users\YellowKek\source\repos\gamee\gamee\obj\Debug\gamee.pdb
